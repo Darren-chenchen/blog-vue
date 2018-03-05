@@ -1,0 +1,39 @@
+@import "./reset";
+
+$paleGrey: rgb(244, 245, 247);
+$black: rgb(41, 44, 64);
+
+$warmgrey: rgb(163, 166, 178);
+$grey: rgb(106, 110, 121);
+$warmPink: rgb(249, 101, 124);
+$aquaMarine: rgb(51, 223, 183);
+$softBlue: rgb(97, 129, 230);
+$coolGrey: rgb(163, 166, 178);
+$mango: rgb(251, 160, 56);
+$paleGreyTwo: rgb(232, 233, 238);
+$tealish: rgb(31, 198, 176);
+$lightIndigoTwo: rgb(144, 88, 212);
+$paleOliveGreen: rgb(158, 215, 101);
+$melon: rgb(250, 121, 92);
+$paleGreyFive: rgb(250, 250, 251);
+$battleshipGrey: rgb(106, 110, 121);
+$darkPeriwinkle: rgb(93, 105, 204);
+$lightIndigo: rgb(144, 99, 216);
+$coral: rgb(251, 78, 60);
+
+body {
+  background: $paleGrey;
+  margin: 0;
+  padding: 0;
+}
+
+//img {
+//  object-fit: cover;
+//  object-position: center;
+//  max-width: 100%;
+//}
+
+
+
+
+
